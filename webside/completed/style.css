@@ -1,0 +1,34 @@
+body {
+    width: 1200px;
+    margin: auto;
+    line-height: 25px;
+    padding: 10px 20px;
+    background-image:url('img/fon.png');
+    color: white;
+    background-repeat: no-repeat;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.phone-number {
+    font-size: 18px;
+    font-weight: bold;
+    display: block;
+}
+
+.hotline h1 {
+    line-height: 41px;
+}
+
+.onas {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 106px;
+}
